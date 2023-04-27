@@ -13,6 +13,9 @@ public class AtmProject {
         //version dnr
         System.out.println("bir kısım kodlar");
         //dnr2
+
+        System.out.println("");
+        //dnr3
     }
 
 }
