@@ -11,6 +11,8 @@ public class AtmProject {
 
         System.out.println("dinar branci kodları yazdı");
         //version dnr
+        System.out.println("bir kısım kodlar");
+        //dnr2
     }
 
 }
